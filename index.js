@@ -29,7 +29,13 @@ var expect = function(val) {
    }
 };
 
- console.log(expect(5).toBe(5)); // true
- console.log(expect(5).toBe(null)); // throws "Equal"
- console.log(expect(5).notToBe(null));
-  console.log(expect(5).notToBe(5));
+//  console.log(expect(5).toBe(5)); // true
+//  console.log(expect(5).toBe(null)); // throws "Equal"
+//  console.log(expect(5).notToBe(null));
+//   console.log(expect(5).notToBe(5));
+
+let arr = [];
+for(let i = 'A';i<26;i++)
+    arr.push(i+" ");
+
+console.log(arr)
