@@ -22,3 +22,10 @@
 
 
 # Organic Food
+
+# exploring realworld
+- monolith & microservices architecture
+- useEffect,fetch(),promise
+- CORS policy
+- live data api(swiggy)
+- shimmer ui (fake ui)
